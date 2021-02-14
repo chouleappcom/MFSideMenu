@@ -6,7 +6,9 @@
 //  Copyright (c) 2013 Frederick Development. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+@import UIKit;
+@import Foundation;
+@import CoreGraphics;
 
 @interface MFSideMenuShadow : NSObject
 
